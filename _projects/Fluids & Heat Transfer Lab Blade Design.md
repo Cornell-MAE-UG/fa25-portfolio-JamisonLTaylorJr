@@ -6,7 +6,21 @@ technologies: [MATLAB, LABView, Fusion 360]
 image: /assets/images/turbine.png
 ---
 
-![Figure 1: CAD model and dimensions]({{ "/assets/images/blade-cad.png" | relative_url }}){: .inline-image-r style="width: 200px"}
+![CAD model]({{ "/assets/images/blade-cad.png" | relative_url }}){: .inline-image-r style="width: 200px"}
+
+*Figure 1: CAD model and dimensions*
+
+
+<figure class="inline-image-r" style="width:200px;">
+  <img src="{{ '/assets/images/blade-cad.png' | relative_url }}" alt="CAD model and dimensions">
+  <figcaption>Figure 1: CAD model and dimensions</figcaption>
+</figure>
+figcaption {
+  font-size: 0.85rem;
+  color: #555;
+  text-align: center;
+}
+
 
 As part of MAE 4272: Fluids and Heat Transfer Laboratory course, our team was tasked with designing a wind turbine blade capable of maximizing power output under fixed wind tunnel operating conditions. The primary objectives were to optimize aerodynamic performance, prevent structural failure under free-spin conditions, and ensure compatibility with system constraints such as the 55 MPa material limit, 6-inch blade length restriction, 1-inch radius hub, a maximum safe rotational speed of 2000 RPM, wind speeds characterized by a Weibull distribution, and fixed parameters of k = 5 and c = 5.
 
