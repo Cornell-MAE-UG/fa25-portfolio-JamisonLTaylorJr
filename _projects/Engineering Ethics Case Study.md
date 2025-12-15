@@ -58,7 +58,7 @@ Across these canons, conflicts consistently resolved in favor of **Canon 1**, re
 
 ---
 
-## Practical Constraints on Ethical Action (Week 9)
+## Practical Constraints on Ethical Action
 This case demonstrates how ethical failures can emerge even when individuals recognize risks. Engineers faced:
 - job security concerns and hierarchical pressure  
 - limited system-level visibility due to information silos  
@@ -70,7 +70,7 @@ Recognizing these constraints helps explain how ethical lapses occur without att
 
 ---
 
-## Prevention Strategies and Lessons Learned
+*Prevention Strategies and Lessons Learned*
 
 **Individual Level**
 - stronger ethics and safety training focused on escalation  
